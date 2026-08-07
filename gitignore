@@ -1,0 +1,12 @@
+# Reproducible artifacts -- not committed, regenerate by rerunning the notebook
+checkpoints/
+*.pth
+
+# Dataset (downloaded separately, not part of the repo)
+tiny-imagenet-200/
+*.zip
+
+# Standard Python / notebook clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
