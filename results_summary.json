@@ -1,0 +1,70 @@
+{
+  "always_continue_baseline": 80.26999831199646,
+  "always_exit_baseline": 58.63000154495239,
+  "confidence_auc": 0.8306422233581543,
+  "threshold_sweep": [
+    {
+      "threshold": 0.3,
+      "hybrid_acc": 67.6800012588501,
+      "exit_acc": 69.17195916175842,
+      "continue_acc": 62.636882066726685,
+      "exit_count": 7717,
+      "continue_count": 2283,
+      "exit_fraction": 77.17
+    },
+    {
+      "threshold": 0.4,
+      "hybrid_acc": 72.24000096321106,
+      "exit_acc": 75.54936408996582,
+      "continue_acc": 66.19558930397034,
+      "exit_count": 6462,
+      "continue_count": 3538,
+      "exit_fraction": 64.62
+    },
+    {
+      "threshold": 0.5,
+      "hybrid_acc": 75.60999989509583,
+      "exit_acc": 81.55120611190796,
+      "continue_acc": 68.8779890537262,
+      "exit_count": 5312,
+      "continue_count": 4688,
+      "exit_fraction": 53.12
+    },
+    {
+      "threshold": 0.6,
+      "hybrid_acc": 77.82999873161316,
+      "exit_acc": 87.08323836326599,
+      "continue_acc": 70.88075876235962,
+      "exit_count": 4289,
+      "continue_count": 5711,
+      "exit_fraction": 42.89
+    },
+    {
+      "threshold": 0.7,
+      "hybrid_acc": 79.1599988937378,
+      "exit_acc": 91.29164218902588,
+      "continue_acc": 72.84889221191406,
+      "exit_count": 3422,
+      "continue_count": 6578,
+      "exit_fraction": 34.22
+    },
+    {
+      "threshold": 0.8,
+      "hybrid_acc": 79.97999787330627,
+      "exit_acc": 94.71099376678467,
+      "continue_acc": 74.67700242996216,
+      "exit_count": 2647,
+      "continue_count": 7353,
+      "exit_fraction": 26.47
+    },
+    {
+      "threshold": 0.9,
+      "hybrid_acc": 80.19999861717224,
+      "exit_acc": 97.61766195297241,
+      "continue_acc": 76.5792965888977,
+      "exit_count": 1721,
+      "continue_count": 8279,
+      "exit_fraction": 17.21
+    }
+  ]
+}
